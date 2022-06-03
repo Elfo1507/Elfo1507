@@ -1,9 +1,9 @@
-# Olá, meu nome é Alefi e bem vindo ao meu perfil
+# Olá, meu nome é Alefi e bem vindo ao meu perfil 
 ## Hi, Im Alefi and welcome to my profile
+<img src="https://i.im.ge/2022/06/03/r8eFu6.png" height="50px" width="50px" />
 
-- 📓 Formações em andamento: Bacharel em sistemas da informação e Fullstack
+- 📓 Formações em andamento: Bacharel em sistemas da informação na UFMG e Fullstack na Kenzie Academy Brasil
 - 😆 Fun fact: Tenho uma mascara de cavalo
-
 #### Aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50px" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50px" width="50px" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px" width="50px" />
