@@ -2,7 +2,7 @@
 ## Hi, Im Alefi and welcome to my profile
 <img src="https://i.im.ge/2022/06/03/r8eFu6.png" height="50px" width="50px" />
 
-- 📓 Formações em andamento: Bacharel em sistemas da informação na UFMG e Fullstack na Kenzie Academy Brasil
+- 📓 Formações em andamento: Bacharelado em sistemas da informação na UFMG e Fullstack na Kenzie Academy Brasil
 - 😆 Fun fact: Tenho uma mascara de cavalo
 #### Aprendendo
 
