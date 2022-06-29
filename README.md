@@ -1,6 +1,5 @@
 # Olá, meu nome é Alefi e bem vindo ao meu perfil 
 ## Hi, Im Alefi and welcome to my profile
-<img src="https://i.im.ge/2022/06/03/r8eFu6.png" height="50px" width="50px" />
 
 - 📓 Formações em andamento: Bacharelado em sistemas da informação na UFMG e Fullstack na Kenzie Academy Brasil
 - 😆 Fun fact: Tenho uma mascara de cavalo
@@ -26,7 +25,7 @@
   
 ![Snake animation](https://github.com/Elfo1507/Elfo1507/blob/output/github-contribution-grid-snake.svg)
  
-https://www.codewars.com/users/ElfoLuaNegra/badges/large
+<img src="https://www.codewars.com/users/ElfoLuaNegra/badges/large.svg"/>
 <!---
 Elfo1507/Elfo1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
