@@ -25,7 +25,7 @@
   
 ![Snake animation](https://github.com/Elfo1507/Elfo1507/blob/output/github-contribution-grid-snake.svg)
  
-<img src="https://www.codewars.com/users/ElfoLuaNegra/badges/large.svg"/>
+<img src="https://www.codewars.com/users/ElfoLuaNegra/badges/large"/>
 <!---
 Elfo1507/Elfo1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
