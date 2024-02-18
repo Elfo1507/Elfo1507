@@ -4,7 +4,8 @@
 - Bacharelado em andamento em sistemas da informação na UFMG
 - Desenvolvedor Fullstack
 - Entusiasta de dados e IA
-- 
+
+- Buscando aprender Devops e WEB3 no futuro
 
 
 #### Principais tecnologias em desenvolvimento
