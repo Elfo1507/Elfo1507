@@ -16,21 +16,7 @@
 <div>
 <a href="https://www.linkedin.com/in/alefi-cunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:alefisantos15@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-#### Sobre meu perfil no Github
 
-<div>
-<a href="https://github.com/Elfo1507">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elfo1507&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elfo1507&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Elfo1507&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Elfo1507&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Elfo1507&theme=dracula)
- 
-<img src="https://www.codewars.com/users/ElfoLuaNegra/badges/large"/>
 <!---
 Elfo1507/Elfo1507 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
